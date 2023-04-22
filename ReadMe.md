@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a passionate and creative front end junior developer who loves to code and design websites. I am always eager to improve my code quality and performance, and I value feedback and collaboration. I am looking for an opportunity to join a dynamic and innovative company where I can grow as a developer and contribute to exciting web projects.
 
-Personal website: www.vakaris-serbenta.eu
+Personal website: www.vakaris-serbenta.eu <br/>
 E-mail: vakaris.serbenta@outlook.com
 
 ## 🌐 Socials:
